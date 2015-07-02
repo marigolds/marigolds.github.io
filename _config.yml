@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Heath Sledge
+title:            The Sledgehammer
 locale:           en_US
 url:              http://marigolds.github.io
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Heath Sledge
+  name: "Heath Sledge"
   avatar: bio-photo.jpg
   bio: "words, words, words"
-  email: hsledge@gmail.com
+  email: "hsledge@gmail.com"
   disqus-shortname: 
-  twitter: #marigolds
+  twitter: "@marigolds"
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #marigolds
+  github: "marigolds"
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
