@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: @marigolds
+  github: #marigolds
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: 
+  linkedin: #username
   xing: #username
   instagram: #username
   lastfm: #username
