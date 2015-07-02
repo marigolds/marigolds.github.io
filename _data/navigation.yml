@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: about
   url: /about/
 
-- title: Blog Posts
+- title: posts
   url: /posts/
 
-- title: Theme Setup
+- title: cv
   url: /theme-setup/
 
-- title: Editing Services
+- title: editing services
   url: http://heathsledge.com
