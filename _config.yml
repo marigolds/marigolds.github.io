@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: "Heath Sledge"
-  avatar: bio-photo.jpg
+  avatar: my_profile_picture.jpg
   bio: "words, words, words"
   email: "hsledge@gmail.com"
   disqus-shortname: 
