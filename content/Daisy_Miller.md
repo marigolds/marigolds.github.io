@@ -1,44 +1,28 @@
-﻿The Project Gutenberg EBook of Daisy Miller, by Henry James
+---
+Title: Daisy Miller: A Study in Two Parts
+Author: Henry James
+Producer: Judith Boss
+Formatter: Heath Sledge
+Date-Published: Text from 1879 edition via Project Gutenberg
+Layout: default
+Date-Released: July 3, 2008 [EBook #208]
+Date-Updated: May 13, 2011
+Language: English
+---
 
-This eBook is for the use of anyone anywhere at no cost and with
+
+The Project Gutenberg EBook of Daisy Miller, by Henry James
+> This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Daisy Miller
+# DAISY MILLER: A STUDY IN TWO PARTS
 
-Author: Henry James
+According to the Project Gutenberg editors, the text is that of the first American appearance in book form, 1879. However, see, for example, [A Virtual Henry James](www2.newpaltz.edu/~hathawar/daisy0.html); _Daisy Miller_ was first published in both serial and book forms in America in 1878.
 
-Release Date: July 3, 2008 [EBook #208]
-[Last updated: May 13, 2011]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK DAISY MILLER ***
-
-
-
-
-Produced by Judith Boss
-
-
-
-
-
-DAISY MILLER: A STUDY
-
-IN TWO PARTS
-
-The text is that of the first American appearance in book form, 1879.
-
-
-
-
-
-PART I
-
+## PART I
 
 At the little town of Vevey, in Switzerland, there is a particularly
 comfortable hotel. There are, indeed, many hotels, for the entertainment
