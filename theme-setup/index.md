@@ -43,7 +43,7 @@ Edited both internal and federal grant applications, including NSF and NIH grant
 
 ##Teaching
 * Designed and taught 16 writing courses and three writing-intensive literature courses (January 2005-May 2015)
-* Worked one-on-one with athletes giving personalized writing instruction and coaching
+* Worked one-on-one with athletes giving personalized writing instruction and coaching (September 2011-December 2011)
 
 ##Speaking
 ###Selected Presentations
