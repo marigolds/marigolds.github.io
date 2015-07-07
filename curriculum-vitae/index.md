@@ -36,12 +36,10 @@ Edited both internal and federal grant applications, including NSF and NIH grant
 ##Writing
 
 ###Grantwriting
-
 * *CCAMPIS* (Federal); Carolina Women’s Center, UNC-CH (March-May 2009).  Synthesized research for, drafted, and revised federal grant proposal in collaboration with the director of the CWC. 
 * *Ueltschi Course Development Grant* (Internal); self, UNC-CH (March 2010).  Wrote funded proposal for development of service-learning First Year Writing courses, in collaboration with Dr. Jordynn Jack and Melissa Birkhofer.
 
 ###Technical Writing
-
 * *Online Service-Learning Pedagogy Guide*, APPLES, UNC-CH (March-April 2010).  Researched, synthesized, and created materials for faculty guide to service-learning pedagogy in collaboration with Dr. Marcie Fisher-Bourne.
 
 ##Teaching
@@ -51,7 +49,6 @@ Edited both internal and federal grant applications, including NSF and NIH grant
 ##Speaking
 
 ###Selected Presentations
-
 * “Sartorial Sociality: Fashioning Friendships in James and Wharton” Northeast Modern Language Association. Montreal, Quebec: April 2010. 
 * “Literary Dress: Fashioning the Fictional Self.” Co-Organizer. Northeast Modern Language Association. New Brunswick, NJ: April 2011.
 * “From The Decoration of Houses to The Book of Homelessness: Edith Wharton and Expatriation.” South Atlantic Modern Language Association. Durham, NC: November 2012.
@@ -60,7 +57,6 @@ Edited both internal and federal grant applications, including NSF and NIH grant
 ##Leadership and Service
 
 ###Leadership and Campus Service Experience
-
 * Academic Plan Committee (2010-2011): Graduate student nominee, Subcommittee on Academic Excellence.
 * Search Committee, Dean of Students (2010-2011)
 * Ueltschi Grant Selection Board (2010), member
