@@ -49,14 +49,18 @@ Edited both internal and federal grant applications, including NSF and NIH grant
 * Worked one-on-one with athletes giving personalized writing instruction and coaching (September 2011-December 2011)
 
 ##Speaking
+
 ###Selected Presentations
+
 * “Sartorial Sociality: Fashioning Friendships in James and Wharton” Northeast Modern Language Association. Montreal, Quebec: April 2010. 
 * “Literary Dress: Fashioning the Fictional Self.” Co-Organizer. Northeast Modern Language Association. New Brunswick, NJ: April 2011.
 * “From The Decoration of Houses to The Book of Homelessness: Edith Wharton and Expatriation.” South Atlantic Modern Language Association. Durham, NC: November 2012.
 * Course Model Sessions, APPLES Faculty Development Institute (With Dr. Marcy Fisher-Bourne May 2010, Dr. Darcy Lear May 2011): Collaboratively designed, organized, and presented 1-2 hour workshops on service-learning course design and pedagogy to UNC faculty. 
 
 ##Leadership and Service
+
 ###Leadership and Campus Service Experience
+
 * Academic Plan Committee (2010-2011): Graduate student nominee, Subcommittee on Academic Excellence.
 * Search Committee, Dean of Students (2010-2011)
 * Ueltschi Grant Selection Board (2010), member
