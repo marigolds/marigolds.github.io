@@ -1,9 +1,9 @@
 ---
-layout: {{ post }}
-title: {{ Daisy Miller: an experiment in Markdown formatting }}
+layout: post
+title: "Daisy Miller: an experiment in Markdown formatting"
 modified: 2015-07-07
 categories: {{ dir }}
-excerpt: A post to experiment with formatting text documents using Markdown and Jekyll
+excerpt: "A post to experiment with formatting text documents using Markdown and Jekyll"
 tags: [practice]
 image:
   feature:
