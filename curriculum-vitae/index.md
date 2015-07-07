@@ -34,11 +34,14 @@ Edited both internal and federal grant applications, including NSF and NIH grant
 * Professor Jack Tie, Biology, UNC-CH (October 2013-June 2015)
 
 ##Writing
+
 ###Grantwriting
+
 * *CCAMPIS* (Federal); Carolina Women’s Center, UNC-CH (March-May 2009).  Synthesized research for, drafted, and revised federal grant proposal in collaboration with the director of the CWC. 
 * *Ueltschi Course Development Grant* (Internal); self, UNC-CH (March 2010).  Wrote funded proposal for development of service-learning First Year Writing courses, in collaboration with Dr. Jordynn Jack and Melissa Birkhofer.
 
 ###Technical Writing
+
 * *Online Service-Learning Pedagogy Guide*, APPLES, UNC-CH (March-April 2010).  Researched, synthesized, and created materials for faculty guide to service-learning pedagogy in collaboration with Dr. Marcie Fisher-Bourne.
 
 ##Teaching
