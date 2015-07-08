@@ -2552,6 +2552,7 @@ a very clever foreign lady.
 *** END OF THIS PROJECT GUTENBERG EBOOK DAISY MILLER ***
 
 ***** This file should be named 208.txt or 208.zip *****
+
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/0/208/
 
@@ -2579,7 +2580,7 @@ redistribution.
 
 
 
-*** START: FULL LICENSE ***
+## *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
@@ -2592,7 +2593,7 @@ Gutenberg-tm License (available with this file or online at
 http://gutenberg.org/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+**Section 1.**  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
@@ -2805,7 +2806,7 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+**Section  2.*  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
