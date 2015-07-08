@@ -8,7 +8,6 @@ tags: [practice]
 image:
   feature:
 ---
----
 Title: Daisy Miller: A Study in Two Parts
 Author: Henry James
 Producer: Judith Boss
@@ -2548,7 +2547,7 @@ a very clever foreign lady.
 
 
 
-End of the Project Gutenberg EBook of Daisy Miller, by Henry James
+## End of the Project Gutenberg EBook of Daisy Miller, by Henry James
 
 *** END OF THIS PROJECT GUTENBERG EBOOK DAISY MILLER ***
 
