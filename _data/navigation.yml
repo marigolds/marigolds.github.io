@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: about
+  url: /about/
+
+- title: posts
+  url: /posts/
+
+- title: cv
+  url: /curriculum-vitae/
+
+- title: editing services
+  url: http://heathsledge.com
