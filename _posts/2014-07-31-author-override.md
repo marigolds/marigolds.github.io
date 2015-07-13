@@ -3,7 +3,7 @@ layout: post
 title: "writing outsourced?"
 author: heath sledge
 image:
-  feature: http://marigolds.github.io/images/IMG-2175-edited.jpg
+  feature: http://marigolds.github.io/images/IMG-2175-edited-tiny.jpg
 modified: 07-13-2015
 excerpt: "meditations on writing as a specialized skill."
 tags: [reading]
