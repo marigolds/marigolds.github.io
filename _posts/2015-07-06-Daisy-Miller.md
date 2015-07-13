@@ -6,17 +6,9 @@ categories: {{ dir }}
 excerpt: "A post to experiment with formatting text documents using Markdown and Jekyll"
 tags: [practice]
 image:
-  feature:
----
-Title: Daisy Miller: A Study in Two Parts
-Author: Henry James
-Producer: Judith Boss
-Formatter: Heath Sledge
-Date-Published: Text from 1879 edition via Project Gutenberg
-Layout: default
-Date-Released: July 3, 2008 [EBook #208]
-Date-Updated: May 13, 2011
-Language: English
+  feature: http://marigolds.github.io/images/sample-image-1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 
@@ -2580,7 +2572,7 @@ redistribution.
 
 
 
-## *** START: FULL LICENSE ***
+### START: FULL LICENSE 
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
