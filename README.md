@@ -1,3 +1,7 @@
+# My GitHub page
+**here is some text**
+I will put some text in my readme file to see what happens
+=======
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
